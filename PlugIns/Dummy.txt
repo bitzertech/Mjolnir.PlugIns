@@ -1,0 +1,1 @@
+Needed for having an empty Git folder. Can be removed when manifest files are added.
